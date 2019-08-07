@@ -1,3 +1,3 @@
 # travelmantics
 
-Travelmantics #5DAYCHALLENGE
+Travelmantics  #5DaysofCodeChallenge
